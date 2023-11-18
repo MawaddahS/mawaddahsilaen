@@ -1,0 +1,29 @@
+run:
+Masukan Nilai 1: 1
+Masukan Nilai 2: 2
+Hasil Penjumlahan = 3.0
+Masukan Nilai 1: 3
+Masukan Nilai 2: 4
+Hasil Pengurangan = -1.0
+Masukan Nilai 1: 1
+Masukan Nilai 2: 2
+Hasil Perkalian = 2.0
+Masukan Nilai 1: 1
+Masukan Nilai 2: 2
+Hasil Pembagian = 0.5
+Masukan Nilai 1: 3
+Masukan Nilai 2: 2
+Hasil Sisa Bagi = 1.0
+Masukan Nilai 1: 1
+Masukan Nilai 2: 2
+Nilai1 lebih besar dari Nilai2: false
+Nilai1 lebih kecil dari Nilai2: true
+Nilai1 sama dengan Nilai2: false
+Hasil Bitwise AND = 0 (dalam biner: 0)
+Angka-1 dalam biner: 1
+Angka-2 dalam biner: 10
+Hasil Bitwise OR = 3 (dalam biner: 11)
+Hasil Bitwise XOR = 3(dalam biner: 11)
+Hasil Bitwise NOT dari angka-1 = -2 (dalam biner: 11111111111111111111111111111110)
+Hasil Bitwise NOT dari angka-2 = -3 (dalam biner: 11111111111111111111111111111101)
+BUILD SUCCESSFUL (total time: 10 minutes 33 seconds)
